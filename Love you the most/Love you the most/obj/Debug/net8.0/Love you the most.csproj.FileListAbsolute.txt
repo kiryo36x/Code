@@ -1,0 +1,16 @@
+C:\Users\blood\source\repos\Love you the most\Love you the most\bin\Debug\net8.0\Love you the most.exe
+C:\Users\blood\source\repos\Love you the most\Love you the most\bin\Debug\net8.0\Love you the most.deps.json
+C:\Users\blood\source\repos\Love you the most\Love you the most\bin\Debug\net8.0\Love you the most.runtimeconfig.json
+C:\Users\blood\source\repos\Love you the most\Love you the most\bin\Debug\net8.0\Love you the most.dll
+C:\Users\blood\source\repos\Love you the most\Love you the most\bin\Debug\net8.0\Love you the most.pdb
+C:\Users\blood\source\repos\Love you the most\Love you the most\obj\Debug\net8.0\Love you the most.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blood\source\repos\Love you the most\Love you the most\obj\Debug\net8.0\Love you the most.AssemblyInfoInputs.cache
+C:\Users\blood\source\repos\Love you the most\Love you the most\obj\Debug\net8.0\Love you the most.AssemblyInfo.cs
+C:\Users\blood\source\repos\Love you the most\Love you the most\obj\Debug\net8.0\Love you the most.csproj.CoreCompileInputs.cache
+C:\Users\blood\source\repos\Love you the most\Love you the most\obj\Debug\net8.0\Love you the most.dll
+C:\Users\blood\source\repos\Love you the most\Love you the most\obj\Debug\net8.0\refint\Love you the most.dll
+C:\Users\blood\source\repos\Love you the most\Love you the most\obj\Debug\net8.0\Love you the most.pdb
+C:\Users\blood\source\repos\Love you the most\Love you the most\obj\Debug\net8.0\Love you the most.genruntimeconfig.cache
+C:\Users\blood\source\repos\Love you the most\Love you the most\obj\Debug\net8.0\ref\Love you the most.dll
+C:\Users\blood\source\repos\Love you the most\Love you the most\obj\Debug\net8.0\Interop.WMPLib.dll
+C:\Users\blood\source\repos\Love you the most\Love you the most\obj\Debug\net8.0\Love you the most.csproj.ResolveComReference.cache
