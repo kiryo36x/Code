@@ -1,0 +1,15 @@
+Spin Tycoon: A Text-Based Idle Game in Python
+
+Spin Tycoon is a simple yet engaging text-based idle game where players earn money by typing "spin". With each spin, players accumulate currency, which can be used to buy more spins, upgrade earnings, purchase boosts from the shop, and even hatch pets for additional bonuses.
+
+Gameplay Features:
+Spinning for Cash – Players earn money every time they type "spin", with upgrades increasing the amount earned per spin.
+Buying More Spins – The more spins you buy, the more you can earn in a short time.
+Upgrades – Invest in upgrades to increase earnings per spin and multiply profits.
+Shop Boosts – Purchase temporary multipliers and power-ups to maximize income.
+Hatching Pets – Collect and hatch pets that provide passive income and unique bonuses.
+Ore Mining & Selling – Discover ores while spinning, sell them for additional money, and increase your high score.
+High Score System – Compete with yourself or others to see who can generate the highest amount of money.
+
+
+First Fully Functional Idle Text Game Project created in my first journey of programmer as a student. Game Created at 2024. 
